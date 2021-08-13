@@ -1,0 +1,48 @@
+li{
+    color: green;
+    font-family: courier;
+    font-weight: bold;
+}
+h1{
+    font-size: 30px;
+}
+p{
+    font-family: courier;
+    color:blueviolet ;
+    font-weight: bold;
+}
+.bar{
+    width: 35px;
+    height: 5px;
+    background-color: white;
+    margin: 6px;
+}
+.menu{
+    display:flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    color: white;
+}
+body{
+    background-color: antiquewhite;
+    font-family: courier;
+    font-weight: bold;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 30px;
+}
+.origami{
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+}
+h3{
+    background-color: teal;
+}
